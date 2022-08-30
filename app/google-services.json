@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199542604268",
+    "project_id": "messangerapp-166ad",
+    "storage_bucket": "messangerapp-166ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199542604268:android:52f84d57a0817ba3b000c9",
+        "android_client_info": {
+          "package_name": "com.raj.messangerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199542604268-1n37najrp7dgimr9kuhdqmoog1d86lo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKk9Khpl5YszTPFTEcwDMLpTzEodWJRA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199542604268-1n37najrp7dgimr9kuhdqmoog1d86lo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
